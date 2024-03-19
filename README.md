@@ -2,7 +2,7 @@ This repo is an example of React Router
 
 There is a home, about and contact component 
 
-This example uses the <Outlet /> component 
+This example uses the < Outlet /> component 
 
 Installation 
 
