@@ -1,8 +1,15 @@
-# React + Vite
+This repo is an example of React Router 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+There is a home, about and contact component 
 
-Currently, two official plugins are available:
+This example uses the <Outlet /> component 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Installation 
+
+git clone https://github.com/The-Knowledge-House/IF-WD-React-Router-Example.git
+
+cd IF-WD-React-Router-Example 
+
+npm install 
+
+npm run dev 
